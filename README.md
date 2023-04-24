@@ -1,16 +1,13 @@
 # api_imageupload
 
-A new Flutter project.
+pick image from phone and upload it into server
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+image picker is used to pick image
 
-A few resources to get you started if this is your first Flutter project:
+![2023-04-24 (2)](https://user-images.githubusercontent.com/123442720/233983015-1220b1b0-3eff-4acb-81b1-494badc1802f.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![2023-04-24 (3)](https://user-images.githubusercontent.com/123442720/233982924-38422ee3-61bc-4eba-bc2d-55bfee4a6c97.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
